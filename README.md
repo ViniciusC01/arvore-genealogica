@@ -3,7 +3,7 @@
 
 # Árvore-Genealógica
 
-### A proposta principal desse projeto é criar um classe Pessoa que contém os seguintes atributos:
+### A proposta principal desse projeto é criar uma classe Pessoa que contém os seguintes atributos:
 
 ~~~java
 String nome;
